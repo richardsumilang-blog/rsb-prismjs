@@ -22,5 +22,6 @@
   ],
   "bugs": {
     "url": "https://github.com/richardsumilang-blog/rsb-prismjs/issues"
-  }
+  },
+  "version": "1.0.1"
 }
