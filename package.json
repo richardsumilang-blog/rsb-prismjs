@@ -1,0 +1,26 @@
+{
+  "name": "rsb-prismjs",
+  "title": "Richard Sumilang Blog PrismJS",
+  "description": "Customized PrismJS build.",
+  "homepage": "http://www.richardsumilang.com",
+  "author": {
+    "name": "Richard Sumilang",
+    "email": "me@richardsumilang.com",
+    "url": "http://www.richardsumilang.com"
+  },
+  "main": "./prism.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/richardsumilang-blog/rsb-prismjs.git"
+  },
+  "private": false,
+  "license": "MIT",
+  "keywords": [
+    "prismjs",
+    "richard",
+    "sumilang"
+  ],
+  "bugs": {
+    "url": "https://github.com/richardsumilang-blog/rsb-prismjs/issues"
+  }
+}
